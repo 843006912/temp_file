@@ -1,0 +1,79 @@
+{
+  "id": "3857628",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20075835",
+      "name": "工艺",
+      "font_class": "gongyi",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "20075840",
+      "name": "检修",
+      "font_class": "jianxiu",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "20075853",
+      "name": "配件",
+      "font_class": "peijian",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "20075865",
+      "name": "警报",
+      "font_class": "jingbao",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "20075876",
+      "name": "数据点",
+      "font_class": "shujudian",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "20075883",
+      "name": "网络设备",
+      "font_class": "wangluoshebei",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "20075900",
+      "name": "质量管理",
+      "font_class": "zhiliangguanli",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "20075904",
+      "name": "API",
+      "font_class": "API",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "20075906",
+      "name": "产线",
+      "font_class": "chanxian",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "20149939",
+      "name": "数据融合",
+      "font_class": "shujuronghe",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    }
+  ]
+}
